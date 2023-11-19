@@ -1,7 +1,7 @@
-# <h1> Heading one </h1>
-# <h2> Heading two </h2>
-# <h3> Heading three </h3>
-# <h4> Heading four </h4>
-# <h5> Heading five </h5>
-# <h6> Heading six </h6>
+# This is the first heading '<h1>' which is the largest 
+## This is the second header '<h2>' 
+### This is the third header size smaller than h2 , '<h3>'
+#### This is the fourth header '<h4>'
+##### This is the fifth header '<h5>' 
+###### This is the sixth header '<h6>', which is the smallest header of the header list 
 Created some heading as per the task of mulearn. These are the headings from size 1 to 6.
