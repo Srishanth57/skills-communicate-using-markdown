@@ -9,3 +9,8 @@ Created some heading as per the task of mulearn. These are the headings from siz
 
 Adding an image. Shown below.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Adding a code example 
+``` javascript
+var myVar = "Hello, world!";
+```
