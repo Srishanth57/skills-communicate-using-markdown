@@ -14,3 +14,9 @@ Adding a code example
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Adding a task list 
+- [ ] Cleaning 
+- [ ] workout 
+- [ ] Introduce myself to the world
+- [ ] Explore world 
